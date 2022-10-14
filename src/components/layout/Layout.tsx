@@ -46,7 +46,7 @@ const Layout = ({
       />
       <Box
         sx={{
-          minHeight: {xs: 'auto', sm: `calc(100vh - 61px)`},
+          minHeight: {xs: 'calc(100vh - 65px)', sm: `calc(100vh - 61px)`},
           display: 'flex',
           alignItems: 'stretch',
         }}
